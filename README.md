@@ -88,16 +88,14 @@ me.say_hi()
 ## 🎯 Current Focus
 
 <div align="center">
-
-```
+<pre>
 🔭 Working on: Mastering Data Structures & Algorithms
-🌱 Learning: Advanced Python Libraries & AI/ML Techniques  
+🌱 Learning: Advanced Python Libraries & AI/ML Techniques
 🤝 Seeking: Exciting Project Collaborations
 💡 Interested in: AI, Machine Learning, Data Science
 📧 Reach me: biswas.ishan2006@gmail.com
 ⚡ Fun fact: I turn coffee into code and data into insights!
-```
-
+</pre>
 </div>
 
 ---
