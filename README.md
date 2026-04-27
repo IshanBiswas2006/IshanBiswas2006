@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Ishan%20Biswas&fontSize=72&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=%20Aspiring%20Data%20Science%20%&descSize=17&descAlignY=58&descColor=a0a0cc" width="100%"/>
+<img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="100%"/>
 
 </div>
 
