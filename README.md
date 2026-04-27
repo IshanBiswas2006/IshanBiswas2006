@@ -19,21 +19,39 @@
 
 ## 🚀 About Me
 
-```python
-class IshanBiswas:
-    def __init__(self):
-        self.name = "Ishan Biswas"
-        self.role = "Aspiring Data Scientist"
-        self.location = "India 🇮🇳"
-        self.education = "Passionate Self-Learner"
-        self.languages = ["Python", "C", "C++", "SQL"]
-        self.current_focus = ["DSA"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+```C++
+#include <iostream>
+#include <vector>
+using namespace std;
 
-me = IshanBiswas()
-me.say_hi()
+class IshanBiswas {
+public:
+    string name;
+    string role;
+    string location;
+    string education;
+    vector<string> languages;
+    vector<string> current_focus;
+
+    IshanBiswas() {
+        name = "Ishan Biswas";
+        role = "Aspiring Data Scientist";
+        location = "India 🇮🇳";
+        education = "Passionate Self-Learner";
+        languages = {"C", "C++", "SQL", "Upcoming..."};
+        current_focus = {"DSA"};
+    }
+
+    void say_hi() {
+        cout << "Thanks for dropping by! Let's connect and build something amazing together!" << endl;
+    }
+};
+
+int main() {
+    IshanBiswas me;
+    me.say_hi();
+    return 0;
+}
 ```
 
 <div align="center">
@@ -51,19 +69,19 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" height="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" height="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg" height="50" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Light.svg" height="50" />
 
 ---
 
 ### 🗄️ Databases  
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" height="50" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Light.svg" height="50" />
 
 ---
 
 ### 🌐 Web Technologies  
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" height="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" height="50" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" height="50" />
 
 
 ---
