@@ -61,8 +61,6 @@ int main() {
 ---
 
 ## 🛠️ Tech Arsenal
-
-### 💻 Programming Languages
 <div align="center">
 
 ### 💻 Programming Languages  
@@ -78,9 +76,14 @@ int main() {
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" height="50" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" height="50" />
 
-
 ---
 
+### 🛠️ Tools
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/github.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/git.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" height="50" />
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
