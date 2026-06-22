@@ -150,10 +150,13 @@ int main() {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <div style="width:100%; max-height:400px; overflow:hidden; border-radius:16px; margin-bottom:20px;">
+    <img
+      src="https://images.steamusercontent.com/ugc/771651869097515186/151C929F08549D7A01B7918D3D570068ED3D2DC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      style="width:100%; margin-top:-150px;"
+    />
+  </div>
 </div>
-
-<div align="center">
   
   **"The best time to plant a tree was 20 years ago. The second best time is now."** 🌱
   
