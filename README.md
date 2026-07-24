@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/228735137119811.62054724baf0b.gif" width="100%"/>
+<img src="https://images.steamusercontent.com/ugc/912408235211382321/62F3FBC8F234B09233ED1B3D0406A93137156A9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
 
 </div>
 
