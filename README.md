@@ -60,39 +60,77 @@ int main() {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 📜 Certifications
+
 <div align="center">
 
-### 💻 Programming Languages  
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" height="50" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Light.svg" height="50" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/image/aws-diamond.png" width="260"/>
+      <br>
+      <b>AWS Cloud Practitioner Essentials</b><br>
+      <sub>AWS Training & Certification</sub><br>
+      <sub>Completed: August 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/image/deloitte-diamond.png" width="260"/>
+      <br>
+      <b>Technology Job Simulation</b><br>
+      <sub>Deloitte (via Forage)</sub><br>
+      <sub>Completed: July 2026</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📚 Libraries  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" />
+## 🛠️ Tech Stack & Expertise
 
----
+<div align="center">
 
-### 🌐 Web Technologies  
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" height="50" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" height="50" />
+**☁️ Cloud & Infrastructure**
+<br>
+<img src="./assets/icon/aws.png" height="120"/>
 
----
+<br><br>
 
-### 🛠️ Tools
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/github.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/git.svg" height="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/jupyter/jupyter-original-wordmark.svg" height="50" />
+**💻 Programming Languages**
+<br>
+<img src="./assets/icon/python.png" height="120"/>
+<img src="./assets/icon/java.png" height="120"/>
+<img src="./assets/icon/c.png" height="120"/>
+<img src="./assets/icon/c++.png" height="120"/>
+<img src="./assets/icon/html.png" height="120"/>
+<img src="./assets/icon/css.png" height="120"/>
+<img src="./assets/icon/js.png" height="120"/>
 
----
+<br><br>
 
-### 🗄️ Databases
-<img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mysql/mysql-original.svg" height="50" />
+**📊 Data Science**
+<br>
+<img src="./assets/icon/jupyter.png" height="120"/>
+<img src="./assets/icon/numpy.png" height="120"/>
+<img src="./assets/icon/pandas.png" height="120"/>
+<img src="./assets/icon/matplotlib.png" height="120"/>
+
+<br><br>
+
+**🗄️ Databases**
+<br>
+<img src="./assets/icon/mysql.png" height="120"/>
+
+<br><br>
+
+**🔧 Tools & Platforms**
+<br>
+<img src="./assets/icon/git.png" height="120"/>
+<img src="./assets/icon/github.png" height="120"/>
+<img src="./assets/icon/vscode.png" height="120"/>
+
+</div>
 
 ---
 ## 📊 GitHub Analytics
