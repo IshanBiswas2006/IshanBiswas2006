@@ -94,6 +94,7 @@ int main() {
 **☁️ Cloud & Infrastructure**
 <br>
 <img src="./assets/icon/aws.png" height="120"/>
+<img src="./assets/icon/Docker.png" height="120"/>
 
 <br><br>
 
